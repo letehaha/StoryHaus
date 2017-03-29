@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11.56" height="22.28" viewBox="0 0 11.56 22.28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b5998;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="facebook_hover" class="cls-1" d="M1378.31,9203.41a27.179,27.179,0,0,0-3.05-.16c-3.03,0-5.11,1.85-5.11,5.24v2.92h-3.41v3.97h3.41v10.17h4.1v-10.17h3.4l0.53-3.97h-3.93v-2.53c0-1.14.31-1.93,1.96-1.93h2.1v-3.54Z" transform="translate(-1366.75 -9203.25)"/>
+</svg>

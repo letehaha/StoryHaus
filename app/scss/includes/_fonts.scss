@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Muller';
+    src: url('../fonts/muller_bold.woff2') format('woff2'),
+         url('../fonts/muller_bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Muller';
+    src: url('../fonts/muller_extra_bold.woff2') format('woff2'),
+         url('../fonts/muller_extra_bold.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Muller';
+    src: url('../fonts/muller_light.woff2') format('woff2'),
+         url('../fonts/muller_light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Muller';
+    src: url('../fonts/muller_medium.woff2') format('woff2'),
+         url('../fonts/muller_medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Muller';
+    src: url('../fonts/muller_regular.woff2') format('woff2'),
+         url('../fonts/muller_regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Magistral';
+    src: url('../fonts/MGS45__U.eot');
+    src: url('../fonts/MGS45__U.woff') format('woff'), url('../fonts/MGS45__U.ttf') format('truetype'), url('../fonts/MGS45__U.svg') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Magistral';
+    src: url('../fonts/MGS65__U.eot');
+    src: url('../fonts/MGS65__U.woff') format('woff'), url('../fonts/MGS65__U.ttf') format('truetype'), url('../fonts/MGS65__U.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
